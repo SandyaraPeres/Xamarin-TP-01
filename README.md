@@ -12,3 +12,5 @@ para nova inserção de dados.
 - O botão crédito apresentará os nomes dos autores do APP.
 
 ### Captura de tela da aplicação
+![Funcionamento do app](captura.gif)
+
